@@ -93,7 +93,7 @@ The project is structured into modular Android and C++/Rust libraries:
 ### Clone & Open
 
 ```bash
-git clone https://github.com/Mr-J-369/Fancy-Ai.git
+git clone https://github.com/marpogiii-code/Fancy-Ai.git
 cd Fancy-Ai
 ```
 
@@ -106,11 +106,6 @@ Open the project directory in Android Studio. Gradle will sync dependencies and 
 ```
 
 ---
-
-## License & Open Source
-
-Fancy AI is licensed under the [Apache License, Version 2.0](LICENSE).  
-You are free to use, modify, and distribute this software under the terms of the Apache 2.0 license.
 
 
 
